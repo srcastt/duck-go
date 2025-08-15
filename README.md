@@ -8,8 +8,8 @@ A simple front-end clone of the **DuckDuckGo** search engine interface using **H
 This project recreates the minimalistic design and layout of DuckDuckGo's search page.
 
 ## 📸 Preview
-
-[![Duck Go Logo](duck-go.png)](https://srcastt.github.io/duck-go-clone/)
+<p align="center">
+<img src="duck-go.png" alt="Duck Go Logo" width="200px" alig>
 
 ## 📂 Project Structure
 
